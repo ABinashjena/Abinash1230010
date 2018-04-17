@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Socioboard suite 1]">
+  <test name="Regression suite 1(failed)">
+    <classes>
+      <class name="com.SB.qa.testcases.BoardMepageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="CreateaBoardTest"/>
+        </methods>
+      </class> <!-- com.SB.qa.testcases.BoardMepageTest -->
+    </classes>
+  </test> <!-- Regression suite 1(failed) -->
+</suite> <!-- Failed suite [Socioboard suite 1] -->

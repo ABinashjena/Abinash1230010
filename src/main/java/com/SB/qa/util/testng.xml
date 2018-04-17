@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Socioboard suite 1" verbose="1" >
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="com.SB.qa.testcases.BoardMepageTest">
+     </class>
+     <class name="com.SB.qa.testcases.DashboardpageTest">
+  </class>   
+ <class name="com.SB.qa.testcases.PrivateimagelibrarymoduleTest">
+  </class>   
+ <class name="com.SB.qa.testcases.PublicimagelibrarymoduleTest">
+  </class> 
+ <class name="com.SB.qa.testcases.ProfilesetingpageTest">
+  </class> 
+
+ 
+ 
+ 
+
+ </classes>
+
+ </test>
+</suite>
